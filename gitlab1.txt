@@ -1,0 +1,10 @@
+Nayana RH@DESKTOP-FS8G03F MINGW64 ~/git_demos (master)
+$ touch gitlab1.txt
+
+Nayana RH@DESKTOP-FS8G03F MINGW64 ~/git_demos (master)
+$ notepad gitlab1.txt
+
+
+
+
+
